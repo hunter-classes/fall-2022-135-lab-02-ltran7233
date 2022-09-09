@@ -4,7 +4,7 @@ Course: CSI-135
 Instructor: Professor Genady Maryash
 Assignment: Lab2C
 
-Description: 
+Description: This program sets an int array with 10 elements with initial values of "1". The program then asks the user to input a valid index to change and the value they want to change the element to. It will only change the element if the number is in the correct range for the index of the array. The program will continue to ask the user to update the elements of the array until they input an index outside of the range of 0 to 9, ending with an error message stating the problem. 
 */
 
 #include <iostream>
